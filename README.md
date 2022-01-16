@@ -11,7 +11,7 @@ Coming Next: Mass Post reporter
 
 *This tool mainly for instagram com dudes, as they would quickly understand the tool's purpose.*
 
-** How to run the script**
+**How to run the script**
 
 **Download the code from github**
 
